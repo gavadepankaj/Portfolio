@@ -20,7 +20,7 @@ function Experience() {
           animate={{ opacity: 1, y: 20 }}
           transition={{ delay: 0.2, duration: 0.6 }}>
 
-          <h2 className='text-2xl font-semibold text-blue-700'> DreamWings Solutions Pvt. Ltd., Jaysingpur</h2>
+          <h2 className='text-2xl font-semibold text-blue-700'> Dreamwings Solutions Pvt. Ltd., Jaysingpur</h2>
           <p className='text-sm text-gray-500 mb-2'>Full-Stack Developer | Oct 2024 - Present</p>
           {/* hoppu */}
           <div className='mb-4'>
